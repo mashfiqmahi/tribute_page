@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="styles.css" rel="stylesheet">
+
+    <title id="title">Muhammad Yunus</title>
+  </head>
+  <body>
+    <main id="main">
+      <h1>Muhammad Yunus</h1>
+      <p>Chief Adviser of Bangladesh</p>
+<div id="img-div">
+  <img id="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40Q94XsBtwErohKCcv7_8r3xz1PL4MhDpFA&s">
+<br>
+  <figcaption id="img-caption">Dr. Muhammad Yunus was inspired during the Bangladesh famine of 1974 to make a small personal loan of US$27 to a group of 42 families as start-up money so that they could make items for sale, without the burdens of high interest under predatory lending.</figcaption>
+  </br>
+</div>
+<div id="tribute-info">
+  <p><b>Born:</b> June 28, 1940 (age 84 years), Hathazari</p>
+<p><b>Spouse:</b> Afrozi Yunus (m. 1980), Vera Forostenko (m. 1970–1979)</p>
+<p><b>Awards:</b> Nobel Peace Prize, World Food Prize · See more</p>
+<p><b>Education:</b> Vanderbilt University, University of Dhaka, University of Chittagong, Chittagong College, Chattogram Collegiate School</p>
+<p><b>Organizations founded:</b> Grameen Bank, Grameenphone ·</p>
+<p><b>Children:</b> Monica Yunus, Deena Afroz Yunus</p>
+</p>
+</div>
+<div id="quote">
+  <i>If you imagine,
+Some day it will happen.
+If you don't imagine,
+It will never happen.....Dr. Muhammad Yunus</i>
+</div>
+<a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Muhammad_Yunus"><h4>If you have time, you should read more about this incredible human being on his Wikipedia entry.</h4></a>
+    </main>
+     </body>
+    </html>

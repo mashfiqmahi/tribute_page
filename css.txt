@@ -1,0 +1,36 @@
+img{
+   display:block;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+h1{
+  display:flex;
+justify-content:center;
+}
+p{
+  display:flex;
+justify-content:center;
+}
+#img-div{
+  border:500px;
+  background-color:#99a3a4;
+  padding-top:50px;
+}
+#tribute-info{
+   display:flex;
+justify-content:center;
+flex-direction:column;
+}
+
+#quote{
+   display:flex;
+justify-content:center;
+}
+#tribute-link{
+  display:flex;
+justify-content:center;
+text-decoration:none;
+}
